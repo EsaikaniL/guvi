@@ -1,5 +1,7 @@
 a=1
 n=int(input())
-while (a<=n):
+if (a<=n):
     a=a+1
     print ("Hello")
+else:
+    print ("")
