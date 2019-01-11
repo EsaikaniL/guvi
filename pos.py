@@ -1,4 +1,4 @@
-ch=input()
+ch=float(input())
 if ch>0:
    print("Positive")
 elif ch==0:
