@@ -1,6 +1,5 @@
-#esaikani
 a=int(input())
-if(a%4==0):
-    print ("yes")
+if (a%4==0):
+    print("yes")
 else:
-    print ("no")
+    print("no")
