@@ -1,6 +1,9 @@
-lst = []
-num = int(input())
-for n in range(num):
-    numbers = int(input())
-    lst.append(numbers)
-print(max(lst))
+x=input()
+y=input()
+z=input()
+if (x>y>z):
+    print (x)
+elif (y>x>z):
+    print (y)
+else:
+    print (z)
