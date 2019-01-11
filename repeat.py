@@ -1,7 +1,5 @@
-a=1
 n=int(input())
-if (a<=n):
-    a=a+1
-    print ("Hello")
-else:
-    print ("")
+for i in range(n):
+	print ("Hello")
+if(n==0):
+	print ("")
