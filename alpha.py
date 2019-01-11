@@ -1,5 +1,5 @@
 ch = input()
-if((ch>='a' and ch<= 'd'):
+if(ch=='a' or ch=='d'):
     print(" Alphabet")
 elif(ch=="???"):
 	print("No")
