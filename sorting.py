@@ -1,4 +1,4 @@
-//esaikani
+//esai
 number=int(input("enter the length:"))
 list=[]
 for i in range(0,number):
